@@ -1,5 +1,8 @@
-# Vaccine_Supply_System
-Smart contract for vaccine supply supervision system
+# Vaccine Supply System
+Smart contract for vaccine supply supervision system.
+## Technology Used
+- Solidity
+- Ethereum
 <h3>Metamask Account<h3>
 <img src="smartcontract_images/Metamask_account.png">
 <h3>Deploying the Smart contract into the Blockchain<h3>
